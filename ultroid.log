@@ -1,0 +1,28 @@
+03/20/2024, 13:12:38 | pyUltLogs [INFO] : 
+                    -----------------------------------
+                            Starting Deployment
+                    -----------------------------------
+    
+03/20/2024, 13:12:38 | pyUltLogs [INFO] : Python version - 3.12.1
+03/20/2024, 13:12:38 | pyUltLogs [INFO] : py-Ultroid Version - 2023.02.20
+03/20/2024, 13:12:38 | pyUltLogs [INFO] : Telethon Version - 1.25.1 [Layer: 151]
+03/20/2024, 13:12:38 | pyUltLogs [INFO] : Ultroid Version - 0.8 [local]
+03/20/2024, 13:12:46 | pyUltLogs [INFO] : Connecting to Redis...
+03/20/2024, 13:12:46 | pyUltLogs [INFO] : Connected to Redis Successfully!
+03/20/2024, 13:12:47 | pyUltLogs [INFO] : Trying to login.
+03/20/2024, 13:12:48 | pyUltLogs [INFO] : Logged in as RD
+03/20/2024, 13:12:48 | pyUltLogs [INFO] : Trying to login.
+03/20/2024, 13:12:49 | pyUltLogs [INFO] : Logged in as @yayaydhruvi_bot
+03/20/2024, 13:12:51 | pyUltLogs [INFO] : Initialising...
+03/20/2024, 13:12:53 | pyUltLogs [INFO] : • Installing Official Plugins || Count : 79 •
+03/20/2024, 13:13:02 | apscheduler.scheduler [INFO] : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+03/20/2024, 13:13:02 | apscheduler.scheduler [INFO] : Adding job tentatively -- it will be properly scheduled when the scheduler starts
+03/20/2024, 13:13:02 | apscheduler.scheduler [INFO] : Added job "close_grp" to job store "default"
+03/20/2024, 13:13:02 | apscheduler.scheduler [INFO] : Added job "open_grp" to job store "default"
+03/20/2024, 13:13:02 | apscheduler.scheduler [INFO] : Scheduler started
+03/20/2024, 13:13:14 | pyUltLogs [INFO] : Took 34s to start •ULTROID•
+03/20/2024, 13:13:14 | pyUltLogs [INFO] : 
+            ----------------------------------------------------------------------
+                Ultroid has been deployed! Visit @TheUltroid for updates!!
+            ----------------------------------------------------------------------
+    
